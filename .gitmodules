@@ -1,0 +1,6 @@
+[submodule "WeKit"]
+	path = WeKit
+	url = https://github.com/xiangdao234/WeKit.git
+[submodule "WAuxiliary_Plugin"]
+	path = WAuxiliary_Plugin
+	url = https://github.com/HdShare/WAuxiliary_Plugin.git
